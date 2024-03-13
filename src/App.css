@@ -1,0 +1,30 @@
+.box {
+    padding: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.link.active {
+    color: blue;
+    border: 1px solid black;
+    border-radius: 10px;
+    background: yellow;
+    padding: 8px;
+}
+
+.loader {
+    height: 80vh;
+}
+
+.placement {
+    top: 0;
+    right: 0;
+    border: 1.5px solid black;
+    border-radius: 50%;
+    background-color: cornsilk;
+    color: blue;
+    padding: 5px 12px;
+}
